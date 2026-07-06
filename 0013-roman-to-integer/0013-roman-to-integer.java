@@ -35,7 +35,6 @@ class Solution {
                 total += 1;
             }
         }
-        
         return total;
     }
 }
