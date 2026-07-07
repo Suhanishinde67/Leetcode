@@ -5,7 +5,7 @@ class Solution {
        for(int i=0; i<nums.length; i++)
        {
             int remaining = target - nums[i];
-            for(int j=i+1; j<nums.length; j++)
+            for(int j=nums.length-1; j>i; j--)
             {
                 if(nums[j]==remaining)
                 {
