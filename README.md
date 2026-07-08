@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suhanishinde67/Leetcode/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Suhanishinde67/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhanishinde67/Leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -22,5 +24,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Suhanishinde67/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
