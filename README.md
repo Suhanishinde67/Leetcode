@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suhanishinde67/Leetcode/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/Suhanishinde67/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhanishinde67/Leetcode/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Suhanishinde67/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
