@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Suhanishinde67/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Suhanishinde67/Leetcode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Suhanishinde67/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Suhanishinde67/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Suhanishinde67/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
