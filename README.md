@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Suhanishinde67/Leetcode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Suhanishinde67/Leetcode/tree/master/0283-move-zeroes) |
+| [1572-matrix-diagonal-sum](https://github.com/Suhanishinde67/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Suhanishinde67/Leetcode/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Suhanishinde67/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
