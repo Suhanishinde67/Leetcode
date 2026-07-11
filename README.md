@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Suhanishinde67/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Suhanishinde67/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Suhanishinde67/Leetcode/tree/master/0283-move-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/Suhanishinde67/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Suhanishinde67/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Suhanishinde67/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Suhanishinde67/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Suhanishinde67/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Suhanishinde67/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +56,12 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Suhanishinde67/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Suhanishinde67/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Suhanishinde67/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
