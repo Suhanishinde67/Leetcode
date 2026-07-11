@@ -24,6 +24,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhanishinde67/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0189-rotate-array) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Suhanishinde67/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suhanishinde67/Leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Suhanishinde67/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
