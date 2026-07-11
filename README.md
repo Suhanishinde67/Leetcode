@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/Suhanishinde67/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Suhanishinde67/Leetcode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Suhanishinde67/Leetcode/tree/master/0704-binary-search) |
 | [1572-matrix-diagonal-sum](https://github.com/Suhanishinde67/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Suhanishinde67/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/Suhanishinde67/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
