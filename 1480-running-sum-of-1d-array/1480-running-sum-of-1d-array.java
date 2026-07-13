@@ -8,6 +8,7 @@ public class Solution {
 
             prevSum = prevSum+nums[i];
             result[i] = prevSum;
+            System.out.println(prevSum);
         }
         return result;
     }
