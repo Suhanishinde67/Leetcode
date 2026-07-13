@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/Suhanishinde67/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suhanishinde67/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Suhanishinde67/Leetcode/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/Suhanishinde67/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Suhanishinde67/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -77,4 +78,8 @@
 | ------- |
 | [0268-missing-number](https://github.com/Suhanishinde67/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Suhanishinde67/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Suhanishinde67/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
