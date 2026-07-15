@@ -14,7 +14,7 @@ class Solution {
                 return mid;
             }
 
-            if(mid+1 <nums.length && nums[mid+1]>nums[mid])
+            if(mid+1<nums.length && nums[mid+1]>nums[mid])
             {
                 low=mid+1;
             }
