@@ -10,24 +10,24 @@ class Solution {
         {
             if(nums1[i]>nums2[j])
             {
-                nums1[indx--]=nums1[i--];
-                //indx--;
-                //i--;
+                nums1[indx]=nums1[i];
+                indx--;
+                i--;
 
             }
             else
             {
-                nums1[indx--] = nums2[j--];
-                //indx--;
-                //j--;
+                nums1[indx] = nums2[j];
+                indx--;
+                j--;
             }
         }
 
         while(j>=0)
         {
-            nums1[indx--] = nums2[j--];
-            //indx--;
-            //j--;
+            nums1[indx] = nums2[j];
+            indx--;
+            j--;
         }
     }
 }
